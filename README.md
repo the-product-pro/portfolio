@@ -98,13 +98,17 @@ I believe in iterative, data-backed development. I don't guess; I measure.
 
 ```mermaid
 graph LR
-    A[🔍 Discovery<br/>User Research & Data] --> B[📝 Definition<br/>Specs & Strategy];
+    A[🔍 Discovery<br/>User Research] --> B[📝 Definition<br/>Specs & Strategy];
     B --> C[⚙️ Build<br/>Agile Execution];
     C --> D[🚀 Deploy<br/>MVP / Feature];
-    D --> E[📊 Measure<br/>Analytics & Feedback];
-    E -->|Iterate or Pivot| A;
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style E fill:#bfb,stroke:#333,stroke-width:2px
+    D --> E[📊 Measure<br/>Analytics];
+    E -->|Iterate| A;
+
+    %% Styling for High Contrast and Visibility
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000000
+    style B fill:#fff9c4,stroke:#fbc02d,stroke-width:2px,color:#000000
+    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000000
+    style D fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000000
+    style E fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#000000
 
 
