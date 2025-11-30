@@ -73,7 +73,7 @@ I focus on outcomes, not output. Here are three examples of how I moved the need
 | **Project "Velocity"**<br>*(0-to-1 MVP Launch)* | **Fractional CPO**<br>Specs & Delivery | Linear, Figma, Node.js, AWS | 🚀 **Launched in 8 weeks** (2 weeks ahead of schedule) under budget. |
 | **Data Warehouse Revamp**<br>*(Internal Tooling)* | **Technical PM**<br>Data Governance | Snowflake, Tableau, Python | ⚡️ **Cut reporting time by 90%** for the executive team. |
 
-> *[View Full Portfolio / Case Study Deck ↗](https://your-portfolio-link.com)*
+> *[View Full Portfolio / Case Study Deck ↗]()*
 
 ---
 
